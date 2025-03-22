@@ -53,7 +53,7 @@
       }
     ],
     "paths": {
-      "/rest/user/data-export": {
+      "/rest/user/data-export/new": {
         "post": {
           "tags": [
             "pet"
